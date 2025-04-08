@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "three": "^0.175.0"
+  },
+  "name": "3d_spinning-ball",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server ./src"
+  },
+  "keywords": [],
+  "author": "U.U.M.Hewage",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": "A spinning 3D ball using Three.js"
+}
